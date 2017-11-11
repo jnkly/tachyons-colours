@@ -1,0 +1,41 @@
+/* firefox photon green */
+
+.green-50 { color: #30e60b; }
+.bg-green-50 { background-color: #30e60b; }
+.b--green-50 { border-color: #30e60b; }
+.hover-green-50:hover,
+.hover-green-50:focus { color: #30e60b; }
+.hover-bg-green-50:hover,
+.hover-bg-green-50:focus { background-color: #30e60b; }
+
+.green-60 { color: #12bc00; }
+.bg-green-60 { background-color: #12bc00; }
+.b--green-60 { border-color: #12bc00; }
+.hover-green-60:hover,
+.hover-green-60:focus { color: #12bc00; }
+.hover-bg-green-60:hover,
+.hover-bg-green-60:focus { background-color: #12bc00; }
+
+.green-70 { color: #058b00; }
+.bg-green-70 { background-color: #058b00; }
+.b--green-70 { border-color: #058b00; }
+.hover-green-70:hover,
+.hover-green-70:focus { color: #058b00; }
+.hover-bg-green-70:hover,
+.hover-bg-green-70:focus { background-color: #058b00; }
+
+.green-80 { color: #006504; }
+.bg-green-80 { background-color: #006504; }
+.b--green-80 { border-color: #006504; }
+.hover-green-80:hover,
+.hover-green-80:focus { color: #006504; }
+.hover-bg-green-80:hover,
+.hover-bg-green-80:focus { background-color: #006504; }
+
+.green-90 { color: #003706; }
+.bg-green-90 { background-color: #003706; }
+.b--green-90 { border-color: #003706; }
+.hover-green-90:hover,
+.hover-green-90:focus { color: #003706; }
+.hover-bg-green-90:hover,
+.hover-bg-green-90:focus { background-color: #003706; }

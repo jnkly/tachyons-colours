@@ -1,0 +1,49 @@
+/* firefox photon blue */
+
+.blue-40 { color: #45a1ff; }
+.bg-blue-40 { background-color: #45a1ff; }
+.b--blue-40 { border-color: #45a1ff; }
+.hover-blue-40:hover,
+.hover-blue-40:focus { color: #45a1ff; }
+.hover-bg-blue-40:hover,
+.hover-bg-blue-40:focus { background-color: #45a1ff; }
+
+.blue-50 { color: #0a84ff; }
+.bg-blue-50 { background-color: #0a84ff; }
+.b--blue-50 { border-color: #0a84ff; }
+.hover-blue-50:hover,
+.hover-blue-50:focus { color: #0a84ff; }
+.hover-bg-blue-50:hover,
+.hover-bg-blue-50:focus { background-color: #0a84ff; }
+
+.blue-60 { color: #0060df; }
+.bg-blue-60 { background-color: #0060df; }
+.b--blue-60 { border-color: #0060df; }
+.hover-blue-60:hover,
+.hover-blue-60:focus { color: #0060df; }
+.hover-bg-blue-60:hover,
+.hover-bg-blue-60:focus { background-color: #0060df; }
+
+.blue-70 { color: #003eaa; }
+.bg-blue-70 { background-color: #003eaa; }
+.b--blue-70 { border-color: #003eaa; }
+.hover-blue-70:hover,
+.hover-blue-70:focus { color: #003eaa; }
+.hover-bg-blue-70:hover,
+.hover-bg-blue-70:focus { background-color: #003eaa; }
+
+.blue-80 { color: #002275; }
+.bg-blue-80 { background-color: #002275; }
+.b--blue-80 { border-color: #002275; }
+.hover-blue-80:hover,
+.hover-blue-80:focus { color: #002275; }
+.hover-bg-blue-80:hover,
+.hover-bg-blue-80:focus { background-color: #002275; }
+
+.blue-90 { color: #000f40; }
+.bg-blue-90 { background-color: #000f40; }
+.b--blue-90 { border-color: #000f40; }
+.hover-blue-90:hover,
+.hover-blue-90:focus { color: #000f40; }
+.hover-bg-blue-90:hover,
+.hover-bg-blue-90:focus { background-color: #000f40; }

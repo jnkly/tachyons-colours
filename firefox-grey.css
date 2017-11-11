@@ -1,0 +1,73 @@
+/* firefox photon grey */
+
+.grey-10 { color: #f9f9fa; }
+.bg-grey-10 { background-color: #f9f9fa; }
+.b--grey-10 { border-color: #f9f9fa; }
+.hover-grey-10:hover,
+.hover-grey-10:focus { color: #f9f9fa; }
+.hover-bg-grey-10:hover,
+.hover-bg-grey-10:focus { background-color: #f9f9fa; }
+
+.grey-20 { color: #ededf0; }
+.bg-grey-20 { background-color: #ededf0; }
+.b--grey-20 { border-color: #ededf0; }
+.hover-grey-20:hover,
+.hover-grey-20:focus { color: #ededf0; }
+.hover-bg-grey-20:hover,
+.hover-bg-grey-20:focus { background-color: #ededf0; }
+
+.grey-30 { color: #d7d7db; }
+.bg-grey-30 { background-color: #d7d7db; }
+.b--grey-30 { border-color: #d7d7db; }
+.hover-grey-30:hover,
+.hover-grey-30:focus { color: #d7d7db; }
+.hover-bg-grey-30:hover,
+.hover-bg-grey-30:focus { background-color: #d7d7db; }
+
+.grey-40 { color: #b1b1b3; }
+.bg-grey-40 { background-color: #b1b1b3; }
+.b--grey-40 { border-color: #b1b1b3; }
+.hover-grey-40:hover,
+.hover-grey-40:focus { color: #b1b1b3; }
+.hover-bg-grey-40:hover,
+.hover-bg-grey-40:focus { background-color: #b1b1b3; }
+
+.grey-50 { color: #737373; }
+.bg-grey-50 { background-color: #737373; }
+.b--grey-50 { border-color: #737373; }
+.hover-grey-50:hover,
+.hover-grey-50:focus { color: #737373; }
+.hover-bg-grey-50:hover,
+.hover-bg-grey-50:focus { background-color: #737373; }
+
+.grey-60 { color: #4a4a4f; }
+.bg-grey-60 { background-color: #4a4a4f; }
+.b--grey-60 { border-color: #4a4a4f; }
+.hover-grey-60:hover,
+.hover-grey-60:focus { color: #4a4a4f; }
+.hover-bg-grey-60:hover,
+.hover-bg-grey-60:focus { background-color: #4a4a4f; }
+
+.grey-70 { color: #38383d; }
+.bg-grey-70 { background-color: #38383d; }
+.b--grey-70 { border-color: #38383d; }
+.hover-grey-70:hover,
+.hover-grey-70:focus { color: #38383d; }
+.hover-bg-grey-70:hover,
+.hover-bg-grey-70:focus { background-color: #38383d; }
+
+.grey-80 { color: #2a2a2e; }
+.bg-grey-80 { background-color: #2a2a2e; }
+.b--grey-80 { border-color: #2a2a2e; }
+.hover-grey-80:hover,
+.hover-grey-80:focus { color: #2a2a2e; }
+.hover-bg-grey-80:hover,
+.hover-bg-grey-80:focus { background-color: #2a2a2e; }
+
+.grey-90 { color: #0c0c0d; }
+.bg-grey-90 { background-color: #0c0c0d; }
+.b--grey-90 { border-color: #0c0c0d; }
+.hover-grey-90:hover,
+.hover-grey-90:focus { color: #0c0c0d; }
+.hover-bg-grey-90:hover,
+.hover-bg-grey-90:focus { background-color: #0c0c0d; }

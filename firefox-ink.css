@@ -1,0 +1,25 @@
+/* firefox photon ink */
+
+.ink-70 { color: #363959; }
+.bg-ink-70 { background-color: #363959; }
+.b--ink-70 { border-color: #363959; }
+.hover-ink-70:hover,
+.hover-ink-70:focus { color: #363959; }
+.hover-bg-ink-70:hover,
+.hover-bg-ink-70:focus { background-color: #363959; }
+
+.ink-80 { color: #202340; }
+.bg-ink-80 { background-color: #202340; }
+.b--ink-80 { border-color: #202340; }
+.hover-ink-80:hover,
+.hover-ink-80:focus { color: #202340; }
+.hover-bg-ink-80:hover,
+.hover-bg-ink-80:focus { background-color: #202340; }
+
+.ink-90 { color: #0f1126; }
+.bg-ink-90 { background-color: #0f1126; }
+.b--ink-90 { border-color: #0f1126; }
+.hover-ink-90:hover,
+.hover-ink-90:focus { color: #0f1126; }
+.hover-bg-ink-90:hover,
+.hover-bg-ink-90:focus { background-color: #0f1126; }

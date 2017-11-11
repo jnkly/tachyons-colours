@@ -1,0 +1,41 @@
+/* firefox photon orange */
+
+.orange-50 { color: #ff9400; }
+.bg-orange-50 { background-color: #ff9400; }
+.b--orange-50 { border-color: #ff9400; }
+.hover-orange-50:hover,
+.hover-orange-50:focus { color: #ff9400; }
+.hover-bg-orange-50:hover,
+.hover-bg-orange-50:focus { background-color: #ff9400; }
+
+.orange-60 { color: #d76e00; }
+.bg-orange-60 { background-color: #d76e00; }
+.b--orange-60 { border-color: #d76e00; }
+.hover-orange-60:hover,
+.hover-orange-60:focus { color: #d76e00; }
+.hover-bg-orange-60:hover,
+.hover-bg-orange-60:focus { background-color: #d76e00; }
+
+.orange-70 { color: #a44900; }
+.bg-orange-70 { background-color: #a44900; }
+.b--orange-70 { border-color: #a44900; }
+.hover-orange-70:hover,
+.hover-orange-70:focus { color: #a44900; }
+.hover-bg-orange-70:hover,
+.hover-bg-orange-70:focus { background-color: #a44900; }
+
+.orange-80 { color: #712b00; }
+.bg-orange-80 { background-color: #712b00; }
+.b--orange-80 { border-color: #712b00; }
+.hover-orange-80:hover,
+.hover-orange-80:focus { color: #712b00; }
+.hover-bg-orange-80:hover,
+.hover-bg-orange-80:focus { background-color: #712b00; }
+
+.orange-90 { color: #3e1300; }
+.bg-orange-90 { background-color: #3e1300; }
+.b--orange-90 { border-color: #3e1300; }
+.hover-orange-90:hover,
+.hover-orange-90:focus { color: #3e1300; }
+.hover-bg-orange-90:hover,
+.hover-bg-orange-90:focus { background-color: #3e1300; }
