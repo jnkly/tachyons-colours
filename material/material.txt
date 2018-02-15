@@ -1,3 +1,0 @@
-# Material colours
-
-Google material design colours for [Tachyons](http://tachyons.io/)
