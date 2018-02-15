@@ -1,5 +1,7 @@
 # Colour packs for GOV.UK
 
+Colour set for [Tachyons](http://tachyons.io/)
+
 Taken from:
 
 [GOV.UK](https://govuk-elements.herokuapp.com/colour/)
