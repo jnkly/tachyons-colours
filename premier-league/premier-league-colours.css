@@ -1,0 +1,162 @@
+/* premier league colours */
+
+/* primary pallette */
+
+/* blue 5,240,255 / #05f0ff */
+
+.blue { color: #05f0ff; }
+.bg-blue { background-color: #05f0ff; }
+.b--blue { border-color: #05f0ff; }
+.hover-blue:hover,
+.hover-blue:focus { color: #05f0ff; }
+.hover-bg-blue:hover,
+.hover-bg-blue:focus { background-color: #05f0ff; }
+
+
+/* red 255,0,90 / #ff005a */
+
+.red { color: #ff005a; }
+.bg-red { background-color: #ff005a; }
+.b--red { border-color: #ff005a; }
+.hover-red:hover,
+.hover-red:focus { color: #ff005a; }
+.hover-bg-red:hover,
+.hover-bg-red:focus { background-color: #ff005a; }
+
+
+/* green 0,255,135 / #00ff87 */
+
+.green { color: #00ff87; }
+.bg-green { background-color: #00ff87; }
+.b--green { border-color: #00ff87; }
+.hover-green:hover,
+.hover-green:focus { color: #00ff87; }
+.hover-bg-green:hover,
+.hover-bg-green:focus { background-color: #00ff87; }
+
+
+/* yellow 235,255,0 / #ebff00 */
+
+.yellow { color: #ebff00; }
+.bg-yellow { background-color: #ebff00; }
+.b--yellow { border-color: #ebff00; }
+.hover-yellow:hover,
+.hover-yellow:focus { color: #ebff00; }
+.hover-bg-yellow:hover,
+.hover-bg-yellow:focus { background-color: #ebff00; }
+
+
+/* purple 55,0,60 / #37003c */
+
+.purple { color: #37003c; }
+.bg-purple { background-color: #37003c; }
+.b--purple { border-color: #37003c; }
+.hover-purple:hover,
+.hover-purple:focus { color: #37003c; }
+.hover-bg-purple:hover,
+.hover-bg-purple:focus { background-color: #37003c; }
+
+
+/* secondary pallette */
+
+/* dark-blue 38,120,136 / #267888 */
+
+.dark-blue { color: #267888; }
+.bg-dark-blue { background-color: #267888; }
+.b--dark-blue { border-color: #267888; }
+.hover-dark-blue:hover,
+.hover-dark-blue:focus { color: #267888; }
+.hover-bg-dark-blue:hover,
+.hover-bg-dark-blue:focus { background-color: #267888; }
+
+
+/* dark-red 136,29,72 / #881d48 */
+
+.dark-red { color: #881d48; }
+.bg-dark-red { background-color: #881d48; }
+.b--dark-red { border-color: #881d48; }
+.hover-dark-red:hover,
+.hover-dark-red:focus { color: #881d48; }
+.hover-bg-dark-red:hover,
+.hover-bg-dark-red:focus { background-color: #881d48; }
+
+
+/* dark-green 38,126, / #267e5a */
+
+.dark-green { color: #267e5a; }
+.bg-dark-green { background-color: #267e5a; }
+.b--dark-green { border-color: #267e5a; }
+.hover-dark-green:hover,
+.hover-dark-green:focus { color: #267e5a; }
+.hover-bg-dark-green:hover,
+.hover-bg-dark-green:focus { background-color: #267e5a; }
+
+
+/* dark-yellow 132,126,38 / #847e26 */
+
+.dark-yellow { color: #847e26; }
+.bg-dark-yellow { background-color: #847e26; }
+.b--dark-yellow { border-color: #847e26; }
+.hover-dark-yellow:hover,
+.hover-dark-yellow:focus { color: #847e26; }
+.hover-bg-dark-yellow:hover,
+.hover-bg-dark-yellow:focus { background-color: #847e26; }
+
+
+/* dark-purple 56,39,56 / #382738 */
+
+.dark-purple { color: #382738; }
+.bg-dark-purple { background-color: #382738; }
+.b--dark-purple { border-color: #382738; }
+.hover-dark-purple:hover,
+.hover-dark-purple:focus { color: #382738; }
+.hover-bg-dark-purple:hover,
+.hover-bg-dark-purple:focus { background-color: #382738; }
+
+
+/* neutrals */
+
+/* light-grey 148,148,141 / #94948d */
+
+.light-grey { color: #94948d; }
+.bg-light-grey { background-color: #94948d; }
+.b--light-grey { border-color: #94948d; }
+.hover-light-grey:hover,
+.hover-light-grey:focus { color: #94948d; }
+.hover-bg-light-grey:hover,
+.hover-bg-light-grey:focus { background-color: #94948d; }
+
+
+/* stone 235,235,228 / #ebebe4 */
+
+.stone { color: #ebebe4 ; }
+.bg-stone { background-color: #ebebe4 ; }
+.b--stone { border-color: #ebebe4 ; }
+.hover-stone:hover,
+.hover-stone:focus { color: #ebebe4 ; }
+.hover-bg-stone:hover,
+.hover-bg-stone:focus { background-color: #ebebe4 ; }
+
+
+/* grey 92,80,94 / #5c505e */
+
+.grey { color: #5c505e; }
+.bg-grey { background-color: #5c505e; }
+.b--grey { border-color: #5c505e; }
+.hover-grey:hover,
+.hover-grey:focus { color: #5c505e; }
+.hover-bg-grey:hover,
+.hover-bg-grey:focus { background-color: #5c505e; }
+
+
+/* specials */
+
+/* gold 133,133,77 / #85854d */
+
+.gold { color: #85854d; }
+.bg-gold { background-color: #85854d; }
+.b--gold { border-color: #85854d; }
+.hover-gold:hover,
+.hover-gold:focus { color: #85854d; }
+.hover-bg-gold:hover,
+.hover-bg-gold:focus { background-color: #85854d; }
