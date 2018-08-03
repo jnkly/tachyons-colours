@@ -1,113 +1,83 @@
-/* Add to custom variables - taken from https://material.io/guidelines/style/color.html#color-color-palette */
+/* Taken from https://material.io/guidelines/style/color.html#color-color-palette */
 
-.amber-50 { color: #fff8e1; }
-.bg-amber-50 { background-color: #fff8e1; }
-.b--amber-50 { border-color: #fff8e1; }
-.hover-amber-50:hover,
-.hover-amber-50:focus { color: #fff8e1; }
-.hover-bg-amber-50:hover,
-.hover-bg-amber-50:focus { background-color: #fff8e1; }
+/* Changed scale to 1-10 */
 
-.amber-100 { color: #ffecb3; }
-.bg-amber-100 { background-color: #ffecb3; }
-.b--amber-100 { border-color: #ffecb3; }
-.hover-amber-100:hover,
-.hover-amber-100:focus { color: #ffecb3; }
-.hover-bg-amber-100:hover,
-.hover-bg-amber-100:focus { background-color: #ffecb3; }
+.amber-1 { color: #fff8e1; }
+.bg-amber-1 { background-color: #fff8e1; }
+.b--amber-1 { border-color: #fff8e1; }
+.hover-amber-1:hover,
+.hover-amber-1:focus { color: #fff8e1; }
+.hover-bg-amber-1:hover,
+.hover-bg-amber-1:focus { background-color: #fff8e1; }
 
-.amber-200 { color: #ffe082; }
-.bg-amber-200 { background-color: #ffe082; }
-.b--amber-200 { border-color: #ffe082; }
-.hover-amber-200:hover,
-.hover-amber-200:focus { color: #ffe082; }
-.hover-bg-amber-200:hover,
-.hover-bg-amber-200:focus { background-color: #ffe082; }
+.amber-2 { color: #ffecb3; }
+.bg-amber-2 { background-color: #ffecb3; }
+.b--amber-2 { border-color: #ffecb3; }
+.hover-amber-2:hover,
+.hover-amber-2:focus { color: #ffecb3; }
+.hover-bg-amber-2:hover,
+.hover-bg-amber-2:focus { background-color: #ffecb3; }
 
-.amber-300 { color: #ffd54f; }
-.bg-amber-300 { background-color: #ffd54f; }
-.b--amber-300 { border-color: #ffd54f; }
-.hover-amber-300:hover,
-.hover-amber-300:focus { color: #ffd54f; }
-.hover-bg-amber-300:hover,
-.hover-bg-amber-300:focus { background-color: #ffd54f; }
+.amber-3 { color: #ffe082; }
+.bg-amber-3 { background-color: #ffe082; }
+.b--amber-3 { border-color: #ffe082; }
+.hover-amber-3:hover,
+.hover-amber-3:focus { color: #ffe082; }
+.hover-bg-amber-3:hover,
+.hover-bg-amber-3:focus { background-color: #ffe082; }
 
-.amber-400 { color: #ffca28; }
-.bg-amber-400 { background-color: #ffca28; }
-.b--amber-400 { border-color: #ffca28; }
-.hover-amber-400:hover,
-.hover-amber-400:focus { color: #ffca28; }
-.hover-bg-amber-400:hover,
-.hover-bg-amber-400:focus { background-color: #ffca28; }
+.amber-4 { color: #ffd54f; }
+.bg-amber-4 { background-color: #ffd54f; }
+.b--amber-4 { border-color: #ffd54f; }
+.hover-amber-4:hover,
+.hover-amber-4:focus { color: #ffd54f; }
+.hover-bg-amber-4:hover,
+.hover-bg-amber-4:focus { background-color: #ffd54f; }
 
-.amber-500 { color: #ffc107; }
-.bg-amber-500 { background-color: #ffc107; }
-.b--amber-500 { border-color: #ffc107; }
-.hover-amber-500:hover,
-.hover-amber-500:focus { color: #ffc107; }
-.hover-bg-amber-500:hover,
-.hover-bg-amber-500:focus { background-color: #ffc107; }
+.amber-5 { color: #ffca28; }
+.bg-amber-5 { background-color: #ffca28; }
+.b--amber-5 { border-color: #ffca28; }
+.hover-amber-5:hover,
+.hover-amber-5:focus { color: #ffca28; }
+.hover-bg-amber-5:hover,
+.hover-bg-amber-5:focus { background-color: #ffca28; }
 
-.amber-600 { color: #ffb300; }
-.bg-amber-600 { background-color: #ffb300; }
-.b--amber-600 { border-color: #ffb300; }
-.hover-amber-600:hover,
-.hover-amber-600:focus { color: #ffb300; }
-.hover-bg-amber-600:hover,
-.hover-bg-amber-600:focus { background-color: #ffb300; }
+.amber-6 { color: #ffc107; }
+.bg-amber-6 { background-color: #ffc107; }
+.b--amber-6 { border-color: #ffc107; }
+.hover-amber-6:hover,
+.hover-amber-6:focus { color: #ffc107; }
+.hover-bg-amber-6:hover,
+.hover-bg-amber-6:focus { background-color: #ffc107; }
 
-.amber-700 { color: #ffa000; }
-.bg-amber-700 { background-color: #ffa000; }
-.b--amber-700 { border-color: #ffa000; }
-.hover-amber-700:hover,
-.hover-amber-700:focus { color: #ffa000; }
-.hover-bg-amber-700:hover,
-.hover-bg-amber-700:focus { background-color: #ffa000; }
+.amber-7 { color: #ffb300; }
+.bg-amber-7 { background-color: #ffb300; }
+.b--amber-7 { border-color: #ffb300; }
+.hover-amber-7:hover,
+.hover-amber-7:focus { color: #ffb300; }
+.hover-bg-amber-7:hover,
+.hover-bg-amber-7:focus { background-color: #ffb300; }
 
-.amber-800 { color: #ff8f00; }
-.bg-amber-800 { background-color: #ff8f00; }
-.b--amber-800 { border-color: #ff8f00; }
-.hover-amber-800:hover,
-.hover-amber-800:focus { color: #ff8f00; }
-.hover-bg-amber-800:hover,
-.hover-bg-amber-800:focus { background-color: #ff8f00; }
+.amber-8 { color: #ffa000; }
+.bg-amber-8 { background-color: #ffa000; }
+.b--amber-8 { border-color: #ffa000; }
+.hover-amber-8:hover,
+.hover-amber-8:focus { color: #ffa000; }
+.hover-bg-amber-8:hover,
+.hover-bg-amber-8:focus { background-color: #ffa000; }
 
-.amber-900 { color: #ff6f00; }
-.bg-amber-900 { background-color: #ff6f00; }
-.b--amber-900 { border-color: #ff6f00; }
-.hover-amber-900:hover,
-.hover-amber-900:focus { color: #ff6f00; }
-.hover-bg-amber-900:hover,
-.hover-bg-amber-900:focus { background-color: #ff6f00; }
+.amber-9 { color: #ff8f00; }
+.bg-amber-9 { background-color: #ff8f00; }
+.b--amber-9 { border-color: #ff8f00; }
+.hover-amber-9:hover,
+.hover-amber-9:focus { color: #ff8f00; }
+.hover-bg-amber-9:hover,
+.hover-bg-amber-9:focus { background-color: #ff8f00; }
 
-.amber-a100 { color: #ffe57f; }
-.bg-amber-a100 { background-color: #ffe57f; }
-.b--amber-a100 { border-color: #ffe57f; }
-.hover-amber-a100:hover,
-.hover-amber-a100:focus { color: #ffe57f; }
-.hover-bg-amber-a100:hover,
-.hover-bg-amber-a100:focus { background-color: #ffe57f; }
-
-.amber-a200 { color: #ffd740; }
-.bg-amber-a200 { background-color: #ffd740; }
-.b--amber-a200 { border-color: #ffd740; }
-.hover-amber-a200:hover,
-.hover-amber-a200:focus { color: #ffd740; }
-.hover-bg-amber-a200:hover,
-.hover-bg-amber-a200:focus { background-color: #ffd740; }
-
-.amber-a400 { color: #ffc400; }
-.bg-amber-a400 { background-color: #ffc400; }
-.b--amber-a400 { border-color: #ffc400; }
-.hover-amber-a400:hover,
-.hover-amber-a400:focus { color: #ffc400; }
-.hover-bg-amber-a400:hover,
-.hover-bg-amber-a400:focus { background-color: #ffc400; }
-
-.amber-a700 { color: #ffab00; }
-.bg-amber-a700 { background-color: #ffab00; }
-.b--amber-a700 { border-color: #ffab00; }
-.hover-amber-a700:hover,
-.hover-amber-a700:focus { color: #ffab00; }
-.hover-bg-amber-a700:hover,
-.hover-bg-amber-a700:focus { background-color: #ffab00; }
+.amber-10 { color: #ff6f00; }
+.bg-amber-10 { background-color: #ff6f00; }
+.b--amber-10 { border-color: #ff6f00; }
+.hover-amber-10:hover,
+.hover-amber-10:focus { color: #ff6f00; }
+.hover-bg-amber-10:hover,
+.hover-bg-amber-10:focus { background-color: #ff6f00; }
